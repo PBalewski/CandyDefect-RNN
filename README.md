@@ -26,9 +26,8 @@ This project aims to develop a **predictive model** that classifies candies as d
    - Provide insights on defect causes and suggest process improvements.
 
 ## Extra Considerations
-- Achieving only classification **limits the maximum score to 70%**.
 - A full solution **must explain defect causes** for a top score.
-- Some logic **must be outside the neural network** for better interpretability.
+- Some logic **can be outside the neural network** for better interpretability.
 
 ## Technologies Used
 - **Python**
