@@ -1,7 +1,7 @@
 # Candy Defect Detection Using RNN
 
 ## Project Overview
-This project aims to develop a **predictive model** that classifies candies as defective or non-defective based on time-series sensors data from the production line. Additionally, a **root cause analysis** will identify patterns in the data responsible for defects. The project was carried out during Deep Learning course on AI Vth sem on PUT.
+This project aims to develop a **predictive model** that classifies candies as defective or non-defective based on time-series sensors data from the production line. Additionally, a **root cause analysis** will identify patterns in the data responsible for defects.
 
 ## Goals
 1. **Defect Classification**  
@@ -42,5 +42,5 @@ This project aims to develop a **predictive model** that classifies candies as d
 4. Visualize detected patterns contributing to defects.
 
 ---
-**Authors**: Piotr Balewski 156037, Mateusz Bernart 156072 
+**Authors**: PBalewski, MBernart
 **Date**: January 2025
